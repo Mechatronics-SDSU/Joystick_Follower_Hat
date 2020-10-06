@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name sdsu_mechatronics_library)(type Legacy)(uri ${KIPRJMOD}/sdsu_mechatronics_library.lib)(options "")(descr ""))
+)
