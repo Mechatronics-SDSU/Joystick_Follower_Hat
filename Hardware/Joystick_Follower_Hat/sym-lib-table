@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name sdsu_mechatronics_library)(type Legacy)(uri ${KIPRJMOD}/sdsu_mechatronics_library.lib)(options "")(descr ""))
+  (lib (name Joystick_Follower_Hat-rescue)(type Legacy)(uri ${KIPRJMOD}/Joystick_Follower_Hat-rescue.lib)(options "")(descr ""))
 )

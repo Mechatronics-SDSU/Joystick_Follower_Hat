@@ -36,7 +36,7 @@ F 3 "~" H 3300 5175 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L COM-09032:COM-09032 U1
+L Joystick_Follower_Hat-rescue:COM-09032-COM-09032 U1
 U 1 1 5F790376
 P 7725 3800
 F 0 "U1" H 8055 3796 50  0000 L CNN
